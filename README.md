@@ -13,7 +13,7 @@ Use branches to select a keyboard.
 ![pin_fingers_layout](pics/pin_fingers_layout.png)
 
 
-#Аккорды клавиатуры РИСАТЕНО / PNCATEHO
+# Аккорды клавиатуры РИСАТЕНО / PNCATEHO
 
 Ниже представлена таблица реально назначенных аккордов клавиатуры \*\*РИСАТЕНО\*\*, полученных из прошивки \*\*PNCATEHO\*\*. Она включает сочетания клавиш, вводимые символы и команды управления. Таблица создана для удобства изучения раскладки: данные получены из файлов прошивки (\`chords.dtsi\`, \`PNCATEHO.keymap\`) на GitHub: https://github.com/aroum/PNCATEHO.
 
